@@ -1,0 +1,1 @@
+{"description":"One line of brutally honest software error copy for make.fun's Say What Actually Broke bounty.","license":"MIT","name":"brutal-error-copy-01","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
